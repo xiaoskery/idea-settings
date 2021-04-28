@@ -1,0 +1,22 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1528775912859" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="D:/DevTools/code-format/eclipse-aio2-formatter.xml" />
+          <option name="selectedJavaProfile" value="Focus Java Formatter" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1586948144038" />
+          <option name="name" value="fyg-admin" />
+          <option name="pathToConfigFileJava" value="D:/DevTools/code-format/eclipse-aio2-formatter.xml" />
+          <option name="selectedJavaProfile" value="Focus Java Formatter" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
